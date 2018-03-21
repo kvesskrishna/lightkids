@@ -22,7 +22,7 @@
                                  </li>
                               
                                  <li><a href="contact">Contact Us</a></li>
-                                 <li><a href="donate" style="margin-top: 0px;padding-top: 0px"><img src="assets/img/donate.png"></a></li>
+                                <!-- <li><a href="donate" style="margin-top: 0px;padding-top: 0px"><img src="assets/img/donate.png"></a></li>-->
                               </ul> <!-- top-main-menu -->
                            </nav>
                         </div>
